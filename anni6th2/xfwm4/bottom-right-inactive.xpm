@@ -1,0 +1,12 @@
+/* XPM */
+static char *bottom_right_inactive[] = {
+"6 6 2 1 0 0",
+"  c #1C1C1E",
+"! c None",
+"      ",
+"      ",
+"      ",
+"      ",
+"      ",
+"      "
+};
